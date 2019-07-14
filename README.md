@@ -1,9 +1,10 @@
 # React Ratings Stars
 
-A simple component React Ratings Start
+A simple component **React Ratings Start**
 
 ## Demo
-See [ap-react-ratings-stars](https://blog.alvaropena.cl/labs/react/ap-react-rating-stars/) in action.
+See <a href="https://blog.alvaropena.cl/labs/react/ap-react-rating-stars/" target="_blank">ap-react-ratings-stars</a> in action.
+
 
 ## Installation and Setup Instructions
 
